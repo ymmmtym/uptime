@@ -80,18 +80,19 @@
     "url": "https://ymmmtym.growi.cloud/",
     "icon": "https://favicons.githubusercontent.com/ymmmtym.growi.cloud",
     "slug": "growi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.34%",
     "uptimeYear": "99.04%",
     "time": 991,
-    "timeDay": 692,
-    "timeWeek": 613,
-    "timeMonth": 807,
+    "timeDay": 629,
+    "timeWeek": 610,
+    "timeMonth": 804,
     "timeYear": 991,
     "dailyMinutesDown": {
+      "2021-11-17": 0,
       "2021-11-15": 17,
       "2021-11-11": 24,
       "2021-11-10": 18,
@@ -191,8 +192,7 @@
       "2021-02-10": 18,
       "2021-02-09": 20,
       "2021-02-08": 19,
-      "2021-02-07": 18,
-      "2021-02-05": 30
+      "2021-02-07": 18
     }
   },
   {
