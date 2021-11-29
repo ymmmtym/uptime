@@ -22,9 +22,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 211,
     "timeMonth": 221,
     "timeYear": 196,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-29": 0
+    }
   },
   {
     "name": "Hacker News",
@@ -83,9 +85,9 @@
     "slug": "growi",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.08%",
     "time": 974,
     "timeDay": 586,
@@ -93,7 +95,6 @@
     "timeMonth": 780,
     "timeYear": 974,
     "dailyMinutesDown": {
-      "2021-11-29": 10,
       "2021-11-28": 16,
       "2021-11-22": 20,
       "2021-11-21": 18,
@@ -193,7 +194,8 @@
       "2021-02-16": 224,
       "2021-02-12": 17,
       "2021-02-11": 18,
-      "2021-02-10": 18
+      "2021-02-10": 18,
+      "2021-02-09": 20
     }
   },
   {
