@@ -83,9 +83,9 @@
     "slug": "keywoo",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 464,
     "timeDay": 467,
@@ -93,7 +93,6 @@
     "timeMonth": 412,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2021-12-12": 4,
       "2021-01-24": 228,
       "2021-01-23": 223
     }
