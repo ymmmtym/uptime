@@ -201,9 +201,9 @@
     "url": "https://keywoo.tokyo/",
     "icon": "https://favicons.githubusercontent.com/keywoo.tokyo",
     "slug": "keywoo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -213,6 +213,7 @@
     "timeMonth": 418,
     "timeYear": 465,
     "dailyMinutesDown": {
+      "2021-12-12": 0,
       "2021-01-24": 228,
       "2021-01-23": 223
     }
