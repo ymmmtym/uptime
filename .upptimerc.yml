@@ -15,16 +15,16 @@ sites:
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
-  - name: Growi
-    url: https://ymmmtym.growi.cloud/
+  # - name: Growi
+  #   url: https://ymmmtym.growi.cloud/
   - name: keywoo
-    url: https://keywoo.tokyo/
+    url: https://keywoo.yumenomatayume.net/
   # - name: Secret Site
   #   url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: ymmmtym.com
+  # cname: yumenomatayume.net
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
