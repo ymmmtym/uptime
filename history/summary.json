@@ -4,10 +4,10 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 110,
@@ -16,6 +16,7 @@
     "timeMonth": 113,
     "timeYear": 109,
     "dailyMinutesDown": {
+      "2025-01-29": 1,
       "2024-10-07": 15,
       "2024-08-07": 18,
       "2024-05-01": 40
@@ -64,10 +65,10 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "test-for-head",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 30,
@@ -76,6 +77,7 @@
     "timeMonth": 33,
     "timeYear": 33,
     "dailyMinutesDown": {
+      "2025-01-29": 1,
       "2024-05-01": 49
     }
   },
@@ -84,17 +86,19 @@
     "url": "https://keywoo.yumenomatayume.net/",
     "icon": "https://icons.duckduckgo.com/ip3/keywoo.yumenomatayume.net.ico",
     "slug": "keywoo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
+    "time": 615,
     "timeDay": 769,
     "timeWeek": 755,
     "timeMonth": 713,
     "timeYear": 648,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   }
 ]
